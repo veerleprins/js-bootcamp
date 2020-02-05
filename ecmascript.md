@@ -1,4 +1,4 @@
-# Notes Kick-off College :notebook:
+# :notebook: Notes Kick-off College
 
 *ECMAScript* is een document waarin geschreven staat hoe JavaScript moet werken.
 -
@@ -9,5 +9,6 @@ In ECMAScript zijn er verschillende versies. Deze worden ES6 of ES2015 genoemd (
 De comissie van JavaScript heet *TC39* dat bestaat uit bedrijven zoals Google, Facebook, Apple, Microsoft, Intel en Paypal.
 
 ECMAScript versies die wij gaan gebruiken zijn ES5 en ES6
-Verschil:
+
+:exclamation: Verschil:
 Oude versie gebruikt **var** voor datatypen, nieuwe versie gebruikt **let** en **const** voor datatypen.
