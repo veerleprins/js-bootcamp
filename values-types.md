@@ -1,4 +1,6 @@
-# :notebook: Notities Kick-off College
+# :notebook: Notities
+
+## Kick-off College:
 Alles in een computer bestaat uit data: Elke informatie kan omgevormd worden tot een reeks van 0'tjes en 1'tjes (bits). 
 
 ### Verschillende soorten data types:
